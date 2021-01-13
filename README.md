@@ -1,0 +1,2 @@
+# MyTV
+We created an application with login / logout functionality and user profile view. The authorization token was saved in shared prefs, the list of channels was saved to the database. The application consists of screens   - login - registration if the user does not have an account - channels list - a list of videos for each of the channels - user profile with logout button If the user is already authorized, he can enter the application without entering a password and login.
